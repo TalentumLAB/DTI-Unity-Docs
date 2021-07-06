@@ -1,38 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
+# File Structure
+Scenes (ej: LoadingScene/LoginScene)
+--- [Scene] -> Assets in componentFolders
+--- [ScenesFolder] -> Assets in Resources/componentFolders (ej: Map/Minigame)
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FileStructure</title>
-</head>
 
-<body>
-    **File Structure**
-    Scenes (ej: LoadingScene/LoginScene)
-    --- [Scene] -> Assets in componentFolders
-    --- [ScenesFolder] -> Assets in Resources/componentFolders (ej: Map/Minigame)
+Scripts
+--- [componentFolder]
+--- [generalFolder]
 
-    Scripts
-    --- [componentFolder]
-    --- [generalFolder]
+Resources (minigames)
+--- [audioFolder]
+------- [componentFolder]
+--- [spriteFolder]
+------- [componentFolder]
+--- [prefabFolder]
+------- [componentFolder]
 
-    Resources (minigames)
-    --- [audioFolder]
-    ------- [componentFolder]
-    --- [spriteFolder]
-    ------- [componentFolder]
-    --- [prefabFolder]
-    ------- [componentFolder]
+Prefabs
+--- [componentFolder]
+--- [generalFolder]
 
-    Prefabs
-    --- [componentFolder]
-    --- [generalFolder]
-
-    Sprites
-    --- [componentFolder]
-    --- [generalFolder]
-</body>
-
-</html>
+Sprites
+--- [componentFolder]
+--- [generalFolder]
