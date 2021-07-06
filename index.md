@@ -8,22 +8,22 @@ Assets
 |           |-- Scene.unity
 |
 |-- Scripts
-|    |-- [componentFolder]
+|    |-- [SceneFolder]
 |    |-- [generalFolder]
 |
 |-- Resources (minigames)
 |    |-- [audioFolder]
-|    |      |-- [componentFolder]
+|    |      |-- [SceneFolder]
 |    |-- [spriteFolder]
-|    |      |-- [componentFolder]
+|    |      |-- [SceneFolder]
 |    |-- [prefabFolder]
-|           |-- [componentFolder]
+|           |-- [SceneFolder]
 |
 |-- Prefabs
-|    |-- [componentFolder]
+|    |-- [SceneFolder]
 |    |-- [generalFolder]
 |
 |-- Sprites
-|    |-- [componentFolder]
+|    |-- [SceneFolder]
 |    |-- [generalFolder]
 ```
