@@ -42,8 +42,8 @@ Assets
 |    |-- [generalFolder]
 |
 |-- Sprites
-|    |-- [sceneFolder]
-|    |-- [generalFolder]
+     |-- [sceneFolder]
+     |-- [generalFolder]
 ```
 ## Carpetas Especiales
 
