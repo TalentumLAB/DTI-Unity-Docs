@@ -1,9 +1,7 @@
 # Documentación de Unity
 ## DTI Talentum | Unidad de Desarrollo
 ### Descripción
-Se empieza la documentación de los procesos de desarrollo en Unity3D.
-
-Uno de los primeros pasos a establecer es:
+Se empieza la documentación de los procesos de desarrollo en Unity3D. Uno de los primeros pasos a establecer es:
 
 | **Actividad**              | Descripción                                                          | Estado                                                                                             |
 | -------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
