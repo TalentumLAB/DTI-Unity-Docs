@@ -1,5 +1,5 @@
 # File Structure
-===
+
 Assets/
 : Carpeta de Unity donde se encuentran todos los recuersos a utilizar para el desarrollo del videojuego
 
