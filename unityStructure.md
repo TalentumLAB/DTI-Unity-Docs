@@ -60,21 +60,23 @@ Assets
 `
 ---
 ``
-Editor/
-: Carpeta para los scripts y recursos de editor (que no estarán en el **Build** Final)
-StreamingAssets
-: Carpeta que contiene los recursos comprimidos desde la carpeta de **Resources**
-UAP/
-: Carpeta para el Plugin de accesibilidad
+Assets
+|
+|-- Editor
+|
+|-- StreamingAssets
+|
+|-- UAP
 ``
 ---
 ```
-Editor/
-: Carpeta para los scripts y recursos de editor (que no estarán en el **Build** Final)
-StreamingAssets
-: Carpeta que contiene los recursos comprimidos desde la carpeta de **Resources**
-UAP/
-: Carpeta para el Plugin de accesibilidad
+Assets
+|
+|-- Editor
+|
+|-- StreamingAssets
+|
+|-- UAP
 ```
 
 
