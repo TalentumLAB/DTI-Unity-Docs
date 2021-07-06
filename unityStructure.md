@@ -4,7 +4,7 @@ Assets/
 : Carpeta de Unity donde se encuentran todos los recuersos a utilizar para el desarrollo del videojuego
 
 Scenes/
-: Carpeta donde se encuentran las escenes .unity
+: Carpeta donde se encuentran las escenes **.unity**
 
 Scripts/
 : Carpeta donde se encontrarán todos los scripts del videojuego
