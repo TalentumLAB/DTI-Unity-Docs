@@ -13,4 +13,4 @@ Pruebas Unitarias | documentación y proceso de implementación - **Pendiente**
 
 AssetBundles | Documentación - **Pendiente**
 
-Mecaninas de juego | Documentación - **Progreso**
+Mecanicas de juego | Documentación - **[Progreso](./docs/mecanicas_v1.docx)**
