@@ -16,7 +16,7 @@ Prefabs/
 : Carpeta para los objetos prefabricados
 
 Sprites/
-: Carpeta para los sprites del videojuego que no seran optimizados
+: Carpeta para los sprites del videojuego que no seran comprimidos en **assetbundles**
 
 ```
 Assets
@@ -51,11 +51,11 @@ Editor/
 : Carpeta para los scripts y recursos de editor (que no estarán en el **Build** Final)
 
 StreamingAssets
-: Carpeta que contiene los recursos comprimidos desde la carpeta de **Resources**
+: Carpeta que contiene los recursos comprimidos desde la carpeta de **Resources** (Assetbundles)
 
 UAP/
 : Carpeta para el Plugin de accesibilidad
----
+
 ```
 Assets
 |
