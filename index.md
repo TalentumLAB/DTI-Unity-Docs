@@ -1,11 +1,11 @@
-
 # File Structure
+
 ```
 Assets
 |
-|-- Scenes (ej: LoadingScene/LoginScene)
-|    |-- [Scene] -> Assets in componentFolders
-|    |-- [ScenesFolder] -> Assets in Resources/componentFolders (ej: Map/Minigame)
+|-- Scenes
+|    |-- [ScenesFolder]
+|           |-- Scene.unity
 |
 |-- Scripts
 |    |-- [componentFolder]
