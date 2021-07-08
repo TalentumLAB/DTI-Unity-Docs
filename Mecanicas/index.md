@@ -11,3 +11,6 @@ A continuación se muestra la lista de las mecánicas de minijuegos con sus ejem
 | **Select**           | Selecciona la única opción correcta entre las múltiples opciones para pasar a la siguiente ronda. | **[Select](https://talentumlab.github.io/DTI-Unity-Docs/Mecanicas/Select%20W/)** |
 | **Select and Drop**     | Selecciona los múltiples objetos y escoge la posición o lugar en donde deberían ir.   | **[Select and Drop](https://talentumlab.github.io/DTI-Unity-Docs/Mecanicas/Select_Drop%20W/)** |
 | **Type** | Escribe la respuesta correcta dependiendo de la pregunta. | **[Type](https://talentumlab.github.io/DTI-Unity-Docs/Mecanicas/Type%20W/)** |
+
+
+## [Home](../index.md)
