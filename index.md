@@ -13,3 +13,7 @@ Se empieza la documentación de los procesos de desarrollo en Unity3D. Las activ
 | **GitFlow**                    | documentación de git                                                 | **[Finished](https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=El%20flujo%20de%20trabajo%20Gitflow,pr%C3%A1cticas%20de%20implementaci%C3%B3n%20de%20DevOps.&text=El%20flujo%20de%20trabajo%20Gitflow%20define%20un%20modelo%20de%20creaci%C3%B3n,publicaci%C3%B3n%20del%20proyecto%20como%20fundamento.)** |
 | **Semantica de Commits**       | Documentación para las buenas prácticas de comentarios en GIT        | **[Finished](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)**                                                                                                                                                                                                                                                              |
 | **Documentación Navegacional** | Documentación sobre la navegación entre escenas y el mapa            | **[Finished](https://drive.google.com/file/d/1p-qCK6nPSNWiDmwykZ6MnVn9Bja8buaI/view?usp=sharing)**                                                                                                                                                                                                                                               |
+
+
+# Enlaces
+## [Mecánicas de Minijuegos](Mecanicas/index.md)
