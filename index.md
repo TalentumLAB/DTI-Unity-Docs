@@ -22,3 +22,4 @@ Se empieza la documentación de los procesos de desarrollo en Unity3D. Las activ
 # Enlaces
 ## [Mecánicas de Minijuegos](./Mecanicas/index.md)
 ## [ToolTip](./ToolTip/index.md)
+## [Inventario Inclusión Nariño Bloque Uno](./Inventory/index.md)
