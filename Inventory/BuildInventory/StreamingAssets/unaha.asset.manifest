@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 2024678085
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ae454d1a3ac932efd5ae4e3e809397fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ddeeb3cb0b42c9a8df67181163a6a32b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Minigames/Textures2/G00LC_SL01/G00LC_SL01@Texture.png
+- Assets/Resources/Minigames/Textures2/G08LC_SL01/G08LC_SL01@Texture_0.png
+- Assets/Resources/Minigames/Textures2/G11LC_SL01/G11LC_SL01@Preview_1.png
+- Assets/Resources/Minigames/Textures2/G09LC_SL01/G09LC_SL01@Texture3.png
+- Assets/Resources/Minigames/Textures2/G09LC_SL01/G09LC_SL01@Preview.png
+- Assets/Resources/Minigames/Textures2/G07LC_SL01/Preview.png
+- Assets/Resources/Minigames/Textures2/G04LC_SL01/G04LC_SL01@Texture.png
+- Assets/Resources/Audios/G05LC_SL01/ronda4.mp3
+- Assets/Resources/Minigames/Textures2/G08LC_SL01/G08LC_SL01@Preview.PNG
+- Assets/Resources/Minigames/Textures2/G07LC_SL01/G07LC_SL01.png
+- Assets/Resources/Minigames/Textures2/G10LC_SL01/G10LC_SL01@R0_2.png
+- Assets/Resources/Minigames/Textures2/G11LC_SL01/G11LC_SL01@Texture_2.png
+- Assets/Resources/Minigames/Textures2/G10LC_SL01/G10LC_SL01@R0_1.png
+- Assets/Resources/Audios/G05LC_SL01/ronda1.mp3
+- Assets/Resources/Minigames/Textures2/G00LC_SL01/G00LC_SL01@Preview.png
+- Assets/Resources/Minigames/Textures2/G06LC_SL01/G06LC_SL01@Texture.png
+- Assets/Resources/Minigames/Textures/G01LC_SL01/G01LC_SL01@Texture.png
+- Assets/Resources/Minigames/Textures2/G09LC_SL01/G09LC_SL01@Texture2.png
+- Assets/Resources/Audios/G05LC_SL01/ronda3.mp3
+- Assets/Resources/Minigames/Textures/G01LC_SL01/G01LC_SL01@Preview2.PNG
+- Assets/Resources/Minigames/Textures/G01LC_SL01/G01LC_SL01@Preview.PNG
+- Assets/Resources/Minigames/Textures2/G06LC_SL01/G06LC_SL01@Preview.png
+- Assets/Resources/Minigames/Textures2/G09LC_SL01/G09LC_SL01@Texture1.png
+- Assets/Resources/Minigames/Textures2/G10LC_SL01/G10LC_SL01@Texture.png
+- Assets/Resources/Minigames/Textures2/G11LC_SL01/G11LC_SL01@Preview_2.png
+- Assets/Resources/Audios/G05LC_SL01/ronda2.mp3
+- Assets/Resources/Minigames/Textures2/G05LC_SL01/G05LC_SL01_4.png
+- Assets/Resources/Minigames/Textures2/G02LC_SL01/G02LC_SL01-1.png
+- Assets/Resources/Minigames/Textures2/G05LC_SL01/G05LC_SL01_1.png
+- Assets/Resources/Minigames/Textures2/G03LC_SL01/G03LC_SL01.png
+- Assets/Resources/Minigames/Textures2/G05LC_SL01/G05LC_SL01_2.png
+- Assets/Resources/Minigames/Textures2/G04LC_SL01/G04LC_SL01@Preview.png
+- Assets/Resources/Minigames/Textures2/G08LC_SL01/G08LC_SL01@Texture_1.png
+- Assets/Resources/Minigames/Textures2/G05LC_SL01/G05LC_SL01_3.png
+- Assets/Resources/Minigames/Textures2/G11LC_SL01/G11LC_SL01@Texture_1.png
+- Assets/Resources/Minigames/Textures2/G02LC_SL01/G02LC_SL01.png
+Dependencies: []
